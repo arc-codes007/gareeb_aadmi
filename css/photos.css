@@ -55,8 +55,9 @@ html{
 
 }
 
-#madeby {
+.madeby {
 	padding-top: 15px;
 	margin:auto;
 	text-align: center;
+	word-spacing: 2.5px;
 }
