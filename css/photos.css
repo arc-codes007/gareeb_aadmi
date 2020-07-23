@@ -1,0 +1,62 @@
+html{
+	scroll-behavior: smooth;
+}
+
+
+.jumbotron {
+	background: rgba(0,0,0,0.4);
+	color: rgb(225,225,225);
+	font-family: 'Fredoka One', cursive;
+}
+
+.backimg{
+	background: url(../pics/background.jpg);
+    backdrop-filter: blur(5px);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    padding-top: 70px;
+}
+
+.btn-primary{
+
+    background: rgba(51,122,183,0.8)
+}
+
+.foot {
+
+	background: #262626;
+	height: 50px;
+	color:#e5e5e5;
+	padding: auto;
+	margin:auto;
+}
+
+.navbar-inverse {
+	background: #262626;
+	
+}
+
+.navbar-inverse .navbar-brand {
+	color:#e5e5e5;
+}
+
+.navbar-inverse .navbar-nav li a {
+	color:#e5e5e5;
+}
+
+.dropdown-menu{
+	background: #262626;
+}
+
+.dropdown-menu li a:hover {
+	color:#262626;
+
+}
+
+#madeby {
+	padding-top: 15px;
+	margin:auto;
+	text-align: center;
+}
